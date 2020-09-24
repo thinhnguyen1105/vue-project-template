@@ -1,0 +1,1488 @@
+[
+	{
+		"element": "SectionBannerImageSlider",
+		"props": {
+			"items": [
+				"https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/vendors/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/page-builder/img/1600318663672jpg"
+			],
+			"hrefs": [null, null, null]
+		},
+		"id": "banner-slider:4e24b3c0-f8a2-11ea-84be-7dffdb6f7660"
+	},
+	{
+		"addedProps": {
+			"preview": true
+		},
+		"id": "my-online-course:57c79730-f8a2-11ea-84be-7dffdb6f7660",
+		"element": "SectionMyCourseOnline",
+		"props": {
+			"heading-text": "My Online Courses",
+			"sub-text": "Subheading text"
+		}
+	},
+	{
+		"element": "SectionCourseOnline",
+		"props": {
+			"heading-text": "Online course",
+			"sub-text": "Subheading text",
+			"items": [
+				{
+					"topics": [
+						{
+							"_id": "5e9f06745e033bf02d6fa249",
+							"dynamoId": "44ca4ae4-f957-450d-9296-9b5367fa4e94",
+							"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+							"__v": 0,
+							"createdAt": "2020-04-06T11:09:22.099Z",
+							"dataType": "academic-topic",
+							"parentId": "112358",
+							"parentIds": ["112358"],
+							"sortKeyCreate": "academic-topic_1586171362099",
+							"sortKeyUpdate": "academic-topic_1586171362099",
+							"status": "publish",
+							"tags": "tat-ca",
+							"title": "Tất cả",
+							"type": "online",
+							"updatedAt": "2020-04-06T11:09:21.994Z",
+							"id": "5e9f06745e033bf02d6fa249"
+						}
+					],
+					"authors": [
+						{
+							"_id": "5f5f1b0d42ad4900087033cc",
+							"profileId": "7c43b449-3f66-4271-823e-c416a88457c0",
+							"name": "ninja",
+							"fullname": "ninja",
+							"email": "ninja@gmail.com",
+							"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+							"phone": "03813013213",
+							"tags": "ninja",
+							"description": "Bậc thầy nhẫn thuật",
+							"updatedAt": "2020-09-17T10:06:27.236Z",
+							"createdAt": "2020-09-14T07:26:05.711Z",
+							"__v": 0,
+							"avatar": {
+								"origin": {
+									"link": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/46e44efd-de7e-4a2d-8be6-d2918a072d23/eawtbfvuwaayh1k-jpg",
+									"mimeType": "image/jpeg",
+									"type": "image",
+									"size": 72010
+								},
+								"capacity": 144020,
+								"dataType": "resource",
+								"sortKeyCreate": "file_image_1600336993885",
+								"previewImage": null,
+								"sortKeyContainerIdCreate": "_file_image_1600336993885",
+								"createdAt": 1600336993885,
+								"sources": [
+									{
+										"link": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/46e44efd-de7e-4a2d-8be6-d2918a072d23/eawtbfvuwaayh1k-jpg",
+										"mimeType": "image/jpeg",
+										"type": "image",
+										"size": 72010
+									}
+								],
+								"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+								"createdBy": "11e9cd80-e653-11e9-b8c3-4123aa37de79",
+								"personal": null,
+								"state": "available",
+								"sortKeyUpdate": "file_image_1600336994878",
+								"containerIds": [],
+								"previewVideo": null,
+								"sortKeyContainerIdUpdate": "_file_image_1600336994878",
+								"updatedAt": 1600336994878,
+								"subType": "image",
+								"description": null,
+								"id": "46e44efd-de7e-4a2d-8be6-d2918a072d23",
+								"title": "EAWtBfVUwAAyh1k.jpg",
+								"type": "file"
+							},
+							"password": "123123",
+							"id": "5f5f1b0d42ad4900087033cc"
+						}
+					],
+					"resourceIds": [],
+					"_id": "5f5adfb216b66000080077e3",
+					"title": "Toán",
+					"type": "online",
+					"price": {
+						"afterDiscount": 100000,
+						"beforeDiscount": 200000,
+						"currency": "VND"
+					},
+					"status": "published",
+					"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+					"tags": "toan",
+					"updatedAt": "2020-09-17T07:05:24.433Z",
+					"createdAt": "2020-09-11T02:23:46.742Z",
+					"__v": 0,
+					"duration": "đang cập nhật",
+					"shortDescription": "tổng hợp các bài giảng toán và đề",
+					"description": "<div data-v-7a7099ee=\"\" id=\"quill-editor1599791029789\" class=\"quill-editor1599791029789 ql-container ql-snow\" style=\"min-height: inherit; max-height: inherit; overflow-y: auto; position: relative; border: 0px;\"><div class=\"ql-editor\" data-gramm=\"false\" style=\"padding: 0px;\"><p>Đây là mô tả chi tiết</p></div><div class=\"ql-clipboard\" contenteditable=\"true\" tabindex=\"-1\"></div><div class=\"ql-tooltip ql-hidden\"><a class=\"ql-preview\" target=\"_blank\" href=\"about:blank\"></a><input type=\"text\" data-formula=\"e=mc^2\" data-link=\"https://quilljs.com\" data-video=\"Embed URL\"><a class=\"ql-action\"></a><a class=\"ql-remove\"></a></div><div class=\"ql-custom\"><textarea style=\"width: 100%; margin: 0px; background: rgb(29, 29, 29); box-sizing: border-box; color: rgb(204, 204, 204); font-size: 15px; outline: none; padding: 20px; line-height: 24px; position: absolute; top: 0px; bottom: 0px; border: none; display: none;\"></textarea></div></div>",
+					"meta": {
+						"mustReadPreviousLesson": true
+					},
+					"data": {
+						"canEnableRate": true,
+						"mustApproveRate": false,
+						"canEnableDiscussion": false,
+						"mustApproveDiscussion": false,
+						"version": 28,
+						"feature": true
+					},
+					"backgroundImg": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/images/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/dac-diem-van-de-tam-linh-huyen-bi-tac-dong-toi-cu-giai-nhu-the-nao.jpg",
+					"previewImg": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/images/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/tu-van-chuyen-hoa-tu-ti.jpg",
+					"disablePurchasing": false,
+					"isFree": false,
+					"publishedAt": "2020-09-11T02:35:33.258Z",
+					"totalRating_5": 1,
+					"video": {
+						"origin": {
+							"link": "https://vimeo.com/456790365",
+							"html": "<iframe src=\"https://player.vimeo.com/video/456790365?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=171115\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen title=\"DANKEST CAT MEMES.mp4\"></iframe>",
+							"mimeType": "video/mp4",
+							"size": 32937786,
+							"type": "video"
+						},
+						"size": 32937786,
+						"dataType": "resource",
+						"vendorId-subType": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b-vimeo",
+						"vendorId-relation": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b-undefined",
+						"createdAt": 1599792645616,
+						"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+						"createdBy": "11e9cd80-e653-11e9-b8c3-4123aa37de79",
+						"vendorId-createdBy": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b-11e9cd80-e653-11e9-b8c3-4123aa37de79",
+						"html": "<iframe src=\"https://player.vimeo.com/video/456790365?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=171115\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen title=\"DANKEST CAT MEMES.mp4\"></iframe>",
+						"updatedAt": 1599792645616,
+						"vendorId-subType-createdBy": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b-vimeo-11e9cd80-e653-11e9-b8c3-4123aa37de79",
+						"subType": "vimeo",
+						"provider": "VIMEO",
+						"link": "https://vimeo.com/456790365",
+						"id": "f2387c00-18c8-4df3-80b1-298c36d7b38d",
+						"tags": "dankest-cat-memes-mp4",
+						"title": "DANKEST CAT MEMES.mp4",
+						"type": "video",
+						"vendorId-dataType": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b-resource",
+						"vendorId-type": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b-video"
+					},
+					"totalRating_4": 1,
+					"totalRating_3": 1,
+					"id": "5f5adfb216b66000080077e3"
+				},
+				{
+					"topics": [],
+					"authors": [],
+					"resourceIds": [],
+					"_id": "5f1ff69dc8d7e30008aee2de",
+					"title": "Khoá học làm người",
+					"type": "online",
+					"price": {
+						"afterDiscount": 50000000,
+						"beforeDiscount": 500000000,
+						"currency": "VND"
+					},
+					"status": "published",
+					"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+					"tags": "khoa-hoc-lam-nguoi",
+					"createdBy": "11e9cd80-e653-11e9-b8c3-4123aa37de79",
+					"updatedAt": "2020-08-11T04:29:29.128Z",
+					"createdAt": "2020-07-28T09:57:49.497Z",
+					"__v": 0,
+					"publishedAt": "2020-07-28T09:57:53.992Z",
+					"backgroundImg": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/images/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/lanwephong.png",
+					"previewImg": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/images/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/Rectangle 17.png",
+					"disablePurchasing": false,
+					"isFree": false,
+					"radio": "2",
+					"duration": "dadấdấđa",
+					"enableRate": false,
+					"mergeUpdate": true,
+					"enableComment": false,
+					"meta": {
+						"mustReadPreviousLesson": true
+					},
+					"totalRating_1": 0,
+					"totalRating_3": 0,
+					"id": "5f1ff69dc8d7e30008aee2de"
+				},
+				{
+					"topics": [],
+					"authors": [],
+					"resourceIds": [],
+					"_id": "5f3e34316adc96000857bc7e",
+					"title": "Khoá bài giảng vào nào",
+					"type": "online",
+					"price": {
+						"afterDiscount": 0,
+						"beforeDiscount": 0,
+						"currency": "VND"
+					},
+					"status": "published",
+					"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+					"tags": "khoa-bai-giang-vao-nao",
+					"updatedAt": "2020-09-17T11:06:54.192Z",
+					"createdAt": "2020-08-20T08:28:33.740Z",
+					"__v": 0,
+					"meta": {
+						"mustReadPreviousLesson": true
+					},
+					"disablePurchasing": false,
+					"isFree": true,
+					"publishedAt": "2020-08-20T08:28:45.556Z",
+					"data": {
+						"canEnableRate": true,
+						"typeOfPreview": "video",
+						"version": 1
+					},
+					"enableComment": true,
+					"mergeUpdate": true,
+					"backgroundImg": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/images/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/anh-anime-hoa-anh-dao_112649042.jpg",
+					"previewImg": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/images/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/tam-quoc-2.jpeg",
+					"video": {
+						"origin": {
+							"link": "https://vimeo.com/458116021",
+							"html": "<iframe src=\"https://player.vimeo.com/video/458116021?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=171115\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen title=\"One Piece Bink&amp;#039;s Sake - English version with lyrics.mp4.mp4\"></iframe>",
+							"mimeType": "video/mp4",
+							"size": 15902495,
+							"type": "video"
+						},
+						"size": 15902495,
+						"dataType": "resource",
+						"vendorId-subType": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b-vimeo",
+						"vendorId-relation": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b-undefined",
+						"createdAt": 1600169986118,
+						"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+						"createdBy": "11e9cd80-e653-11e9-b8c3-4123aa37de79",
+						"vendorId-createdBy": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b-11e9cd80-e653-11e9-b8c3-4123aa37de79",
+						"html": "<iframe src=\"https://player.vimeo.com/video/458116021?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=171115\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen title=\"One Piece Bink&amp;#039;s Sake - English version with lyrics.mp4.mp4\"></iframe>",
+						"updatedAt": 1600169986118,
+						"vendorId-subType-createdBy": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b-vimeo-11e9cd80-e653-11e9-b8c3-4123aa37de79",
+						"subType": "vimeo",
+						"provider": "VIMEO",
+						"link": "https://vimeo.com/458116021",
+						"id": "3b6fdc7d-8476-4e33-94a8-3bc81f31087a",
+						"tags": "one-piece-bink-s-sake-english-version-with-lyrics-mp4-mp4",
+						"title": "One Piece Bink's Sake - English version with lyrics.mp4.mp4",
+						"type": "video",
+						"vendorId-dataType": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b-resource",
+						"vendorId-type": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b-video"
+					},
+					"id": "5f3e34316adc96000857bc7e"
+				}
+			]
+		},
+		"id": "online-course:60556120-f8a2-11ea-84be-7dffdb6f7660"
+	},
+	{
+		"element": "SectionEventList",
+		"props": {
+			"items": [
+				{
+					"topics": [],
+					"authors": [],
+					"_id": "5f604423a33933000896962a",
+					"title": "moi moi",
+					"startTime": "2020-09-16T17:00:00.000Z",
+					"endTime": "2020-09-17T17:00:00.000Z",
+					"data": {
+						"pickLocationFrom": "center"
+					},
+					"description": "<div data-v-7a7099ee=\"\" id=\"quill-editor1600337674120\" class=\"quill-editor1600337674120 ql-container ql-snow\" style=\"min-height: inherit; max-height: inherit; overflow-y: auto; position: relative; border: 0px;\"><div class=\"ql-editor\" data-gramm=\"false\" style=\"padding: 0px;\"><p>mo ta chi tiet chi tiet</p></div><div class=\"ql-clipboard\" contenteditable=\"true\" tabindex=\"-1\"></div><div class=\"ql-tooltip ql-hidden\"><a class=\"ql-preview\" target=\"_blank\" href=\"about:blank\"></a><input type=\"text\" data-formula=\"e=mc^2\" data-link=\"https://quilljs.com\" data-video=\"Embed URL\"><a class=\"ql-action\"></a><a class=\"ql-remove\"></a></div><div class=\"ql-custom\"><textarea style=\"width: 100%; margin: 0px; background: rgb(29, 29, 29); box-sizing: border-box; color: rgb(204, 204, 204); font-size: 15px; outline: none; padding: 20px; line-height: 24px; position: absolute; top: 0px; bottom: 0px; border: none; display: none;\"></textarea></div></div>",
+					"isFree": false,
+					"price": {
+						"afterDiscount": "10000000",
+						"beforeDiscount": 0
+					},
+					"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+					"tags": "moi-moi",
+					"updatedAt": "2020-09-17T10:14:45.550Z",
+					"createdAt": "2020-09-15T04:33:39.638Z",
+					"__v": 0,
+					"address": "gg77777",
+					"coverImage": {
+						"origin": {
+							"link": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/d5e218e9-bad3-4acc-8e8f-f8f20a05558a/eawtbfvuwaayh1k-jpg",
+							"mimeType": "image/jpeg",
+							"type": "image",
+							"size": 72010
+						},
+						"capacity": 144020,
+						"dataType": "resource",
+						"sortKeyCreate": "file_image_1600337683018",
+						"previewImage": null,
+						"sortKeyContainerIdCreate": "_file_image_1600337683018",
+						"createdAt": 1600337683018,
+						"sources": [
+							{
+								"link": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/d5e218e9-bad3-4acc-8e8f-f8f20a05558a/eawtbfvuwaayh1k-jpg",
+								"mimeType": "image/jpeg",
+								"type": "image",
+								"size": 72010
+							}
+						],
+						"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+						"createdBy": "11e9cd80-e653-11e9-b8c3-4123aa37de79",
+						"personal": null,
+						"state": "available",
+						"sortKeyUpdate": "file_image_1600337683768",
+						"containerIds": [],
+						"previewVideo": null,
+						"sortKeyContainerIdUpdate": "_file_image_1600337683768",
+						"updatedAt": 1600337683768,
+						"subType": "image",
+						"description": null,
+						"id": "d5e218e9-bad3-4acc-8e8f-f8f20a05558a",
+						"title": "EAWtBfVUwAAyh1k.jpg",
+						"type": "file"
+					},
+					"images": [
+						{
+							"origin": {
+								"link": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/7cb585b1-ed9f-48ef-acca-cf788c93f41f/80091473-823822531431323-5739113920015106048-n-jpg",
+								"mimeType": "image/jpeg",
+								"type": "image",
+								"size": 129608
+							},
+							"capacity": 259216,
+							"dataType": "resource",
+							"sortKeyCreate": "file_image_1600230166636",
+							"previewImage": null,
+							"sortKeyContainerIdCreate": "_file_image_1600230166636",
+							"createdAt": 1600230166636,
+							"sources": [
+								{
+									"link": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/7cb585b1-ed9f-48ef-acca-cf788c93f41f/80091473-823822531431323-5739113920015106048-n-jpg",
+									"mimeType": "image/jpeg",
+									"type": "image",
+									"size": 129608
+								}
+							],
+							"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+							"createdBy": "11e9cd80-e653-11e9-b8c3-4123aa37de79",
+							"personal": null,
+							"state": "available",
+							"sortKeyUpdate": "file_image_1600230168955",
+							"containerIds": [],
+							"previewVideo": null,
+							"sortKeyContainerIdUpdate": "_file_image_1600230168955",
+							"updatedAt": 1600230168955,
+							"subType": "image",
+							"description": null,
+							"id": "7cb585b1-ed9f-48ef-acca-cf788c93f41f",
+							"title": "80091473_823822531431323_5739113920015106048_n.jpg",
+							"type": "file"
+						}
+					],
+					"previewImage": {
+						"origin": {
+							"link": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/a865740b-fce1-4672-a269-43b0ba48e725/eawtbfvuwaayh1k-jpg",
+							"mimeType": "image/jpeg",
+							"type": "image",
+							"size": 72010
+						},
+						"capacity": 144020,
+						"dataType": "resource",
+						"sortKeyCreate": "file_image_1600337678722",
+						"previewImage": null,
+						"sortKeyContainerIdCreate": "_file_image_1600337678722",
+						"createdAt": 1600337678722,
+						"sources": [
+							{
+								"link": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/a865740b-fce1-4672-a269-43b0ba48e725/eawtbfvuwaayh1k-jpg",
+								"mimeType": "image/jpeg",
+								"type": "image",
+								"size": 72010
+							}
+						],
+						"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+						"createdBy": "11e9cd80-e653-11e9-b8c3-4123aa37de79",
+						"personal": null,
+						"state": "available",
+						"sortKeyUpdate": "file_image_1600337679602",
+						"containerIds": [],
+						"previewVideo": null,
+						"sortKeyContainerIdUpdate": "_file_image_1600337679602",
+						"updatedAt": 1600337679602,
+						"subType": "image",
+						"description": null,
+						"id": "a865740b-fce1-4672-a269-43b0ba48e725",
+						"title": "EAWtBfVUwAAyh1k.jpg",
+						"type": "file"
+					},
+					"seo": {
+						"title": "seo title",
+						"description": "seo des",
+						"customPath": ""
+					},
+					"id": "5f604423a33933000896962a"
+				},
+				{
+					"topics": [],
+					"authors": [],
+					"_id": "5f60414da339330008969629",
+					"title": "kha qua",
+					"startTime": "2020-09-14T21:15:00.000Z",
+					"endTime": "2020-09-17T19:13:00.000Z",
+					"data": {
+						"pickLocationFrom": "text"
+					},
+					"isFree": true,
+					"price": {
+						"afterDiscount": 0,
+						"beforeDiscount": 0
+					},
+					"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+					"tags": "kha-qua",
+					"updatedAt": "2020-09-17T10:13:32.719Z",
+					"createdAt": "2020-09-15T04:21:33.377Z",
+					"__v": 0,
+					"address": "ada",
+					"coverImage": {
+						"origin": {
+							"link": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/aeec061c-bdec-42a7-baa6-a79ebc61c5a5/eawtbfvuwaayh1k-jpg",
+							"mimeType": "image/jpeg",
+							"type": "image",
+							"size": 72010
+						},
+						"capacity": 144020,
+						"dataType": "resource",
+						"sortKeyCreate": "file_image_1600337586798",
+						"previewImage": null,
+						"sortKeyContainerIdCreate": "_file_image_1600337586798",
+						"createdAt": 1600337586798,
+						"sources": [
+							{
+								"link": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/aeec061c-bdec-42a7-baa6-a79ebc61c5a5/eawtbfvuwaayh1k-jpg",
+								"mimeType": "image/jpeg",
+								"type": "image",
+								"size": 72010
+							}
+						],
+						"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+						"createdBy": "11e9cd80-e653-11e9-b8c3-4123aa37de79",
+						"personal": null,
+						"state": "available",
+						"sortKeyUpdate": "file_image_1600337587521",
+						"containerIds": [],
+						"previewVideo": null,
+						"sortKeyContainerIdUpdate": "_file_image_1600337587521",
+						"updatedAt": 1600337587521,
+						"subType": "image",
+						"description": null,
+						"id": "aeec061c-bdec-42a7-baa6-a79ebc61c5a5",
+						"title": "EAWtBfVUwAAyh1k.jpg",
+						"type": "file"
+					},
+					"images": [],
+					"previewImage": {
+						"origin": {
+							"link": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/93da4f92-0348-45d3-be51-dfb60741e330/eawtbfvuwaayh1k-jpg",
+							"mimeType": "image/jpeg",
+							"type": "image",
+							"size": 72010
+						},
+						"capacity": 144020,
+						"dataType": "resource",
+						"sortKeyCreate": "file_image_1600337581990",
+						"previewImage": null,
+						"sortKeyContainerIdCreate": "_file_image_1600337581990",
+						"createdAt": 1600337581990,
+						"sources": [
+							{
+								"link": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/93da4f92-0348-45d3-be51-dfb60741e330/eawtbfvuwaayh1k-jpg",
+								"mimeType": "image/jpeg",
+								"type": "image",
+								"size": 72010
+							}
+						],
+						"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+						"createdBy": "11e9cd80-e653-11e9-b8c3-4123aa37de79",
+						"personal": null,
+						"state": "available",
+						"sortKeyUpdate": "file_image_1600337582878",
+						"containerIds": [],
+						"previewVideo": null,
+						"sortKeyContainerIdUpdate": "_file_image_1600337582878",
+						"updatedAt": 1600337582878,
+						"subType": "image",
+						"description": null,
+						"id": "93da4f92-0348-45d3-be51-dfb60741e330",
+						"title": "EAWtBfVUwAAyh1k.jpg",
+						"type": "file"
+					},
+					"seo": {
+						"title": "",
+						"description": "",
+						"customPath": ""
+					},
+					"id": "5f60414da339330008969629"
+				},
+				{
+					"topics": [],
+					"authors": [
+						{
+							"_id": "5f5f1b0d42ad4900087033cc",
+							"profileId": "7c43b449-3f66-4271-823e-c416a88457c0",
+							"name": "ninja",
+							"fullname": "ninja",
+							"email": "ninja@gmail.com",
+							"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+							"phone": "03813013213",
+							"tags": "ninja",
+							"description": "Bậc thầy nhẫn thuật",
+							"updatedAt": "2020-09-17T10:06:27.236Z",
+							"createdAt": "2020-09-14T07:26:05.711Z",
+							"__v": 0,
+							"avatar": {
+								"origin": {
+									"link": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/46e44efd-de7e-4a2d-8be6-d2918a072d23/eawtbfvuwaayh1k-jpg",
+									"mimeType": "image/jpeg",
+									"type": "image",
+									"size": 72010
+								},
+								"capacity": 144020,
+								"dataType": "resource",
+								"sortKeyCreate": "file_image_1600336993885",
+								"previewImage": null,
+								"sortKeyContainerIdCreate": "_file_image_1600336993885",
+								"createdAt": 1600336993885,
+								"sources": [
+									{
+										"link": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/46e44efd-de7e-4a2d-8be6-d2918a072d23/eawtbfvuwaayh1k-jpg",
+										"mimeType": "image/jpeg",
+										"type": "image",
+										"size": 72010
+									}
+								],
+								"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+								"createdBy": "11e9cd80-e653-11e9-b8c3-4123aa37de79",
+								"personal": null,
+								"state": "available",
+								"sortKeyUpdate": "file_image_1600336994878",
+								"containerIds": [],
+								"previewVideo": null,
+								"sortKeyContainerIdUpdate": "_file_image_1600336994878",
+								"updatedAt": 1600336994878,
+								"subType": "image",
+								"description": null,
+								"id": "46e44efd-de7e-4a2d-8be6-d2918a072d23",
+								"title": "EAWtBfVUwAAyh1k.jpg",
+								"type": "file"
+							},
+							"password": "123123",
+							"id": "5f5f1b0d42ad4900087033cc"
+						}
+					],
+					"_id": "5f603b1e99bf5e00089036da",
+					"title": "skkskssk",
+					"startTime": "2020-09-15T03:15:00.000Z",
+					"endTime": "2020-09-17T04:17:00.000Z",
+					"data": {
+						"pickLocationFrom": "text"
+					},
+					"isFree": true,
+					"price": {
+						"afterDiscount": 0,
+						"beforeDiscount": 0
+					},
+					"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+					"tags": "skkskssk",
+					"updatedAt": "2020-09-17T10:14:21.942Z",
+					"createdAt": "2020-09-15T03:55:10.512Z",
+					"__v": 0,
+					"address": "uwu",
+					"coverImage": {
+						"origin": {
+							"link": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/1673d0b5-9295-46d3-861a-84be6940eefe/eawtbfvuwaayh1k-jpg",
+							"mimeType": "image/jpeg",
+							"type": "image",
+							"size": 72010
+						},
+						"capacity": 144020,
+						"dataType": "resource",
+						"sortKeyCreate": "file_image_1600337643284",
+						"previewImage": null,
+						"sortKeyContainerIdCreate": "_file_image_1600337643284",
+						"createdAt": 1600337643284,
+						"sources": [
+							{
+								"link": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/1673d0b5-9295-46d3-861a-84be6940eefe/eawtbfvuwaayh1k-jpg",
+								"mimeType": "image/jpeg",
+								"type": "image",
+								"size": 72010
+							}
+						],
+						"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+						"createdBy": "11e9cd80-e653-11e9-b8c3-4123aa37de79",
+						"personal": null,
+						"state": "available",
+						"sortKeyUpdate": "file_image_1600337643781",
+						"containerIds": [],
+						"previewVideo": null,
+						"sortKeyContainerIdUpdate": "_file_image_1600337643781",
+						"updatedAt": 1600337643781,
+						"subType": "image",
+						"description": null,
+						"id": "1673d0b5-9295-46d3-861a-84be6940eefe",
+						"title": "EAWtBfVUwAAyh1k.jpg",
+						"type": "file"
+					},
+					"images": [],
+					"previewImage": {
+						"origin": {
+							"link": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/607af93f-dd3d-4fb9-8b09-f4ae15885d9a/eawtbfvuwaayh1k-jpg",
+							"mimeType": "image/jpeg",
+							"type": "image",
+							"size": 72010
+						},
+						"capacity": 144020,
+						"dataType": "resource",
+						"sortKeyCreate": "file_image_1600337638395",
+						"previewImage": null,
+						"sortKeyContainerIdCreate": "_file_image_1600337638395",
+						"createdAt": 1600337638395,
+						"sources": [
+							{
+								"link": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/607af93f-dd3d-4fb9-8b09-f4ae15885d9a/eawtbfvuwaayh1k-jpg",
+								"mimeType": "image/jpeg",
+								"type": "image",
+								"size": 72010
+							}
+						],
+						"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+						"createdBy": "11e9cd80-e653-11e9-b8c3-4123aa37de79",
+						"personal": null,
+						"state": "available",
+						"sortKeyUpdate": "file_image_1600337639408",
+						"containerIds": [],
+						"previewVideo": null,
+						"sortKeyContainerIdUpdate": "_file_image_1600337639408",
+						"updatedAt": 1600337639408,
+						"subType": "image",
+						"description": null,
+						"id": "607af93f-dd3d-4fb9-8b09-f4ae15885d9a",
+						"title": "EAWtBfVUwAAyh1k.jpg",
+						"type": "file"
+					},
+					"seo": {
+						"title": "",
+						"description": "",
+						"customPath": ""
+					},
+					"id": "5f603b1e99bf5e00089036da"
+				}
+			],
+			"heading-text": "Tiêu đề chính",
+			"sub-text": "Tiêu đề phụ"
+		},
+		"id": "event:741f4c20-f8a2-11ea-84be-7dffdb6f7660"
+	},
+	{
+		"element": "SectionCourseOffline",
+		"props": {
+			"items": [
+				{
+					"topics": [
+						{
+							"_id": "5f5a0203c184e9000887f896",
+							"title": "TOPIC FOR TESTING",
+							"type": "offline",
+							"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+							"tags": "topic-for-testing",
+							"updatedAt": "2020-09-10T11:54:22.852Z",
+							"createdAt": "2020-09-10T10:37:55.704Z",
+							"__v": 0,
+							"id": "5f5a0203c184e9000887f896"
+						}
+					],
+					"authors": [
+						{
+							"_id": "5f65ca23f275690008129ac0",
+							"profileId": "31fd7044-0131-4199-abfa-f24a9fdd971a",
+							"name": "pokemon",
+							"fullname": "pokemon",
+							"email": "pokemon@gmail.com",
+							"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+							"phone": "undefined",
+							"tags": "pokemon",
+							"updatedAt": "2020-09-19T09:07:17.284Z",
+							"createdAt": "2020-09-19T09:06:43.838Z",
+							"__v": 0,
+							"password": "123123",
+							"id": "5f65ca23f275690008129ac0"
+						}
+					],
+					"_id": "5f55988ff2f2500008b57a70",
+					"title": "new offline course",
+					"type": "offline",
+					"price": {
+						"isHiddenPrice": false,
+						"fixedPricing": "100000",
+						"type": "course"
+					},
+					"status": "published",
+					"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+					"tags": "new-offline-course",
+					"updatedAt": "2020-09-19T10:38:36.383Z",
+					"createdAt": "2020-09-07T02:18:55.033Z",
+					"__v": 0,
+					"duration": "đang cập nhật",
+					"shortDescription": "đây là mô tả cho khóa học offline mới nhất ",
+					"description": "<div data-v-7a7099ee=\"\" id=\"quill-editor1599445136671\" class=\"quill-editor1599445136671 ql-container ql-snow\" style=\"min-height: inherit; max-height: inherit; overflow-y: auto; position: relative; border: 0px;\"><div class=\"ql-editor\" data-gramm=\"false\" style=\"padding: 0px;\"><p class=\"ql-align-justify\"><strong>Con đường \"trải thảm\" vàng mã và bố trí nhiều lễ vật</strong></p><p class=\"ql-align-justify\">Mới đây trên mạng xã hội bất ngờ lan truyền đoạn clip ghi lại hình ảnh một đoạn đường ngắn đã thu hút sự chú ý của nhiều người. Cụ thể, trên con đường bên hông tòa nhà lớn được trải vô số vàng mã, thậm chí thành các lớp xếp chồng lên nhau. Khi những cơn gió nhẹ đi qua, từng lớp tiền giấy bay tung lên, văng tung tóe sang xung quanh.</p><p><br></p></div><div class=\"ql-clipboard\" contenteditable=\"true\" tabindex=\"-1\"></div><div class=\"ql-tooltip ql-hidden\"><a class=\"ql-preview\" target=\"_blank\" href=\"about:blank\"></a><input type=\"text\" data-formula=\"e=mc^2\" data-link=\"https://quilljs.com\" data-video=\"Embed URL\"><a class=\"ql-action\"></a><a class=\"ql-remove\"></a></div><div class=\"ql-custom\"><textarea style=\"width: 100%; margin: 0px; background: rgb(29, 29, 29); box-sizing: border-box; color: rgb(204, 204, 204); font-size: 15px; outline: none; padding: 20px; line-height: 24px; position: absolute; top: 0px; bottom: 0px; border: none; display: none;\"></textarea></div></div>",
+					"data": {
+						"syllabus": [
+							{
+								"id": "b32c395b-de3f-4e9d-8e29-8b8474abfc67",
+								"index": 0,
+								"title": "định luật hấp hối",
+								"description": "Sau khi bị quả mít rơi vào đầu tôi đã tìm ra định luật hấp hối"
+							},
+							{
+								"id": "3c9bae16-32ea-4386-b7ae-2ed9c5039133",
+								"index": 1,
+								"title": "huyền bí scp",
+								"description": "Ở trái đất có rất nhiều điều huyền bí mà chúng ta không thể biết được"
+							}
+						],
+						"feature": true
+					},
+					"metadata": {
+						"previewImg": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/images/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/tu-van-chuyen-hoa-tu-ti.jpg",
+						"backgroundImg": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/images/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/dac-diem-van-de-tam-linh-huyen-bi-tac-dong-toi-cu-giai-nhu-the-nao.jpg",
+						"typeOfPreview": "image"
+					},
+					"id": "5f55988ff2f2500008b57a70",
+					"classCount": 4
+				},
+				{
+					"topics": [],
+					"authors": [],
+					"_id": "5f534ee286acf80008590a00",
+					"title": "thử nghiệm ngày 5 tháng 9",
+					"type": "offline",
+					"price": {
+						"isHiddenPrice": true,
+						"type": "contact"
+					},
+					"status": "published",
+					"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+					"tags": "thu-nghiem-ngay-5-thang-9",
+					"updatedAt": "2020-09-19T10:37:00.440Z",
+					"createdAt": "2020-09-05T08:40:02.043Z",
+					"__v": 0,
+					"description": "<div data-v-7a7099ee=\"\" id=\"quill-editor1599295204430\" class=\"quill-editor1599295204430 ql-container ql-snow\" style=\"min-height: inherit; max-height: inherit; overflow-y: auto; position: relative; border: 0px;\"><div class=\"ql-editor\" data-gramm=\"false\" style=\"padding: 0px;\"><p>Trước diễn biến mới của dịch, đại diện Tổ chức Y tế Thế giới nhấn mạnh, Việt Nam cần chuẩn bị ứng phó thật tốt với những tác động tiềm tàng của Covid-19 đối với hệ thống y tế.</p><p>Việt Nam cũng như nhiều nước trong khu vực đang phải đối mặt với làn sóng thứ hai của đại dịch Covid-19.</p><p>Số ca mắc mới đã tăng vọt từ sau khi ghi nhận trường hợp nhiễm Covid-19 trong cộng đồng, tại Đà Nẵng, vào ngày 25/7. Đến nay, tổng số bệnh nhân Covid-19 tại Việt Nam vượt mốc 1.000 người và có đã có ca tử vong.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p>Với vai trò “nhạc trưởng” trong cuộc chiến chống lại đại dịch Covid-19, Tổ chức Y tế Thế giới (WHO) đánh giá thế nào về diễn biến mới của dịch Covid-19 tại Việt Nam, cũng như hiệu quả của các biện pháp chống dịch đã được Chính phủ thực hiện?</p><p><em>Dân trí</em>&nbsp;đã có cuộc phỏng vấn với TS Kidong Park, Trưởng Đại diện WHO Việt Nam, để làm rõ vấn đề này.</p></div><div class=\"ql-clipboard\" contenteditable=\"true\" tabindex=\"-1\"></div><div class=\"ql-tooltip ql-hidden\"><a class=\"ql-preview\" target=\"_blank\" href=\"about:blank\"></a><input type=\"text\" data-formula=\"e=mc^2\" data-link=\"https://quilljs.com\" data-video=\"Embed URL\"><a class=\"ql-action\"></a><a class=\"ql-remove\"></a></div><div class=\"ql-custom\"><textarea style=\"width: 100%; margin: 0px; background: rgb(29, 29, 29); box-sizing: border-box; color: rgb(204, 204, 204); font-size: 15px; outline: none; padding: 20px; line-height: 24px; position: absolute; top: 0px; bottom: 0px; border: none; display: none;\"></textarea></div></div>",
+					"data": {
+						"canEnableRate": false,
+						"feature": false
+					},
+					"metadata": {
+						"previewImg": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/images/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/tamquocdiennghiaandroid.png",
+						"backgroundImg": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/images/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/anh-anime-hoa-anh-dao_112649042.jpg",
+						"data": {
+							"canEnableRate": false,
+							"feature": false,
+							"typeOfPreview": "image"
+						}
+					},
+					"id": "5f534ee286acf80008590a00",
+					"classCount": 0
+				},
+				{
+					"topics": [],
+					"authors": [],
+					"_id": "5f1ec069d0b5e231d21e7526",
+					"title": "Khối THPT tại Tập đoàn Thầy Nghĩa",
+					"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+					"dynamoId": "b3e39d8c-8220-43b8-b23d-5ffc33876587",
+					"metadata": {
+						"previewImg": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/images/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/540b2ce315e4475ab86243d1034da421_1444030104.jpg",
+						"backgroundImg": "http://online-learning-izteach-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/050bf070-6a83-11ea-854e-dd48e34c6e71/eeb6984e-49f1-462a-81cd-de943cc5d90a/online-cover-detail-jpg"
+					},
+					"price": {
+						"currency": "VND",
+						"isHiddenPrice": false
+					},
+					"tags": "khoi-thpt-tai-tap-doan-thay-nghia",
+					"status": "published",
+					"__v": 0,
+					"updatedAt": "2020-09-12T04:25:30.827Z",
+					"duration": "14",
+					"data": {
+						"canEnableRate": true,
+						"feature": false
+					},
+					"id": "5f1ec069d0b5e231d21e7526",
+					"classCount": 1
+				}
+			],
+			"heading-text": "Offline course",
+			"sub-text": "Subheading text"
+		},
+		"id": "offline-course:9f311af0-f8c6-11ea-803a-255458810ef3"
+	},
+	{
+		"element": "SectionDepartment",
+		"props": {
+			"items": [
+				{
+					"_id": "5f61e0a8a1a552000730ba8f",
+					"name": "ngáo",
+					"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+					"createdAt": "2020-09-16T09:53:44.267Z",
+					"__v": 0,
+					"previewImage": {
+						"origin": {
+							"link": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/df81afc3-888a-4ba4-9e6f-ed49cdb3e630/930b4b5a2ee97a4db8bd2347db1f6e52-jpg",
+							"mimeType": "image/jpeg",
+							"type": "image",
+							"size": 36867
+						},
+						"capacity": 73734,
+						"dataType": "resource",
+						"sortKeyCreate": "file_image_1600250032464",
+						"previewImage": null,
+						"sortKeyContainerIdCreate": "_file_image_1600250032464",
+						"createdAt": 1600250032464,
+						"sources": [
+							{
+								"link": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/df81afc3-888a-4ba4-9e6f-ed49cdb3e630/930b4b5a2ee97a4db8bd2347db1f6e52-jpg",
+								"mimeType": "image/jpeg",
+								"type": "image",
+								"size": 36867
+							}
+						],
+						"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+						"createdBy": "11e9cd80-e653-11e9-b8c3-4123aa37de79",
+						"personal": null,
+						"state": "available",
+						"sortKeyUpdate": "file_image_1600250033602",
+						"containerIds": [],
+						"previewVideo": null,
+						"sortKeyContainerIdUpdate": "_file_image_1600250033602",
+						"updatedAt": 1600250033603,
+						"subType": "image",
+						"description": null,
+						"id": "df81afc3-888a-4ba4-9e6f-ed49cdb3e630",
+						"title": "930b4b5a2ee97a4db8bd2347db1f6e52-jpg",
+						"type": "file"
+					},
+					"id": "5f61e0a8a1a552000730ba8f"
+				},
+				{
+					"_id": "5f61e195a1a552000730ba90",
+					"name": "đá",
+					"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+					"createdAt": "2020-09-16T09:57:41.788Z",
+					"__v": 0,
+					"previewImage": {
+						"origin": {
+							"link": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/45cc3d9c-3bfd-4a84-a3e0-c54ce6f06c87/luubi-jpg",
+							"mimeType": "image/jpeg",
+							"type": "image",
+							"size": 166162
+						},
+						"capacity": 332324,
+						"dataType": "resource",
+						"sortKeyCreate": "file_image_1600250271223",
+						"previewImage": null,
+						"sortKeyContainerIdCreate": "_file_image_1600250271223",
+						"createdAt": 1600250271223,
+						"sources": [
+							{
+								"link": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/45cc3d9c-3bfd-4a84-a3e0-c54ce6f06c87/luubi-jpg",
+								"mimeType": "image/jpeg",
+								"type": "image",
+								"size": 166162
+							}
+						],
+						"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+						"createdBy": "11e9cd80-e653-11e9-b8c3-4123aa37de79",
+						"personal": null,
+						"state": "available",
+						"sortKeyUpdate": "file_image_1600250272533",
+						"containerIds": [],
+						"previewVideo": null,
+						"sortKeyContainerIdUpdate": "_file_image_1600250272533",
+						"updatedAt": 1600250272533,
+						"subType": "image",
+						"description": null,
+						"id": "45cc3d9c-3bfd-4a84-a3e0-c54ce6f06c87",
+						"title": "luubi-jpg",
+						"type": "file"
+					},
+					"id": "5f61e195a1a552000730ba90"
+				},
+				{
+					"_id": "5f61e1a8a1a552000730ba91",
+					"name": "quá",
+					"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+					"createdAt": "2020-09-16T09:58:00.477Z",
+					"__v": 0,
+					"previewImage": {
+						"origin": {
+							"link": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/ac78233e-d2b8-4338-9d98-edf062f0f895/sq-1423569918051-0-0-368-500-crop-1423569922839-jpg",
+							"mimeType": "image/jpeg",
+							"type": "image",
+							"size": 89241
+						},
+						"capacity": 178482,
+						"dataType": "resource",
+						"sortKeyCreate": "file_image_1600250300957",
+						"previewImage": null,
+						"sortKeyContainerIdCreate": "_file_image_1600250300957",
+						"createdAt": 1600250300957,
+						"sources": [
+							{
+								"link": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/ac78233e-d2b8-4338-9d98-edf062f0f895/sq-1423569918051-0-0-368-500-crop-1423569922839-jpg",
+								"mimeType": "image/jpeg",
+								"type": "image",
+								"size": 89241
+							}
+						],
+						"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+						"createdBy": "11e9cd80-e653-11e9-b8c3-4123aa37de79",
+						"personal": null,
+						"state": "available",
+						"sortKeyUpdate": "file_image_1600250301941",
+						"containerIds": [],
+						"previewVideo": null,
+						"sortKeyContainerIdUpdate": "_file_image_1600250301941",
+						"updatedAt": 1600250301941,
+						"subType": "image",
+						"description": null,
+						"id": "ac78233e-d2b8-4338-9d98-edf062f0f895",
+						"title": "sq-1423569918051-0-0-368-500-crop-1423569922839-jpg",
+						"type": "file"
+					},
+					"id": "5f61e1a8a1a552000730ba91"
+				},
+				{
+					"_id": "5f61e1c44812620008aa9c58",
+					"name": "đi",
+					"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+					"createdAt": "2020-09-16T09:58:28.600Z",
+					"__v": 0,
+					"previewImage": {
+						"origin": {
+							"link": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/e2b53fca-bbdb-4231-887b-f8d622cdbf64/photo1568389882595-1568389882885-crop-1568389889395149792226-jpg",
+							"mimeType": "image/jpeg",
+							"type": "image",
+							"size": 76550
+						},
+						"capacity": 153100,
+						"dataType": "resource",
+						"sortKeyCreate": "file_image_1600250319390",
+						"previewImage": null,
+						"sortKeyContainerIdCreate": "_file_image_1600250319390",
+						"createdAt": 1600250319390,
+						"sources": [
+							{
+								"link": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/e2b53fca-bbdb-4231-887b-f8d622cdbf64/photo1568389882595-1568389882885-crop-1568389889395149792226-jpg",
+								"mimeType": "image/jpeg",
+								"type": "image",
+								"size": 76550
+							}
+						],
+						"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+						"createdBy": "11e9cd80-e653-11e9-b8c3-4123aa37de79",
+						"personal": null,
+						"state": "available",
+						"sortKeyUpdate": "file_image_1600250320499",
+						"containerIds": [],
+						"previewVideo": null,
+						"sortKeyContainerIdUpdate": "_file_image_1600250320499",
+						"updatedAt": 1600250320499,
+						"subType": "image",
+						"description": null,
+						"id": "e2b53fca-bbdb-4231-887b-f8d622cdbf64",
+						"title": "photo1568389882595-1568389882885-crop-1568389889395149792226-jpg",
+						"type": "file"
+					},
+					"id": "5f61e1c44812620008aa9c58"
+				}
+			],
+			"heading-text": "Co sở"
+		},
+		"id": "department:b3187900-f8c6-11ea-803a-255458810ef3"
+	},
+	{
+		"element": "SectionEbook",
+		"props": {
+			"heading-text": "Sách điện tử cho mọi nhà",
+			"items": [
+				{
+					"topics": [
+						{
+							"_id": "5f5aea9d78fece0008d52fad",
+							"title": "nihongo",
+							"type": "book",
+							"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+							"tags": "nihongo",
+							"updatedAt": "2020-09-11T03:10:21.627Z",
+							"createdAt": "2020-09-11T03:10:21.627Z",
+							"__v": 0,
+							"id": "5f5aea9d78fece0008d52fad"
+						}
+					],
+					"authors": [],
+					"_id": "5f604494e939fa0008296eca",
+					"title": "Tài liệu mới",
+					"description": "ádasdasdasd",
+					"previewImage": {
+						"origin": {
+							"link": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/2c709a27-520c-4782-953e-d725841ec267/photo-1-15876161801661772236671-jpg",
+							"mimeType": "image/jpeg",
+							"type": "image",
+							"size": 171000
+						},
+						"capacity": 342000,
+						"dataType": "resource",
+						"sortKeyCreate": "file_image_1600144525274",
+						"previewImage": null,
+						"sortKeyContainerIdCreate": "_file_image_1600144525274",
+						"createdAt": 1600144525274,
+						"sources": [
+							{
+								"link": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/2c709a27-520c-4782-953e-d725841ec267/photo-1-15876161801661772236671-jpg",
+								"mimeType": "image/jpeg",
+								"type": "image",
+								"size": 171000
+							}
+						],
+						"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+						"createdBy": "11e9cd80-e653-11e9-b8c3-4123aa37de79",
+						"personal": null,
+						"state": "available",
+						"sortKeyUpdate": "file_image_1600144527440",
+						"containerIds": [],
+						"previewVideo": null,
+						"sortKeyContainerIdUpdate": "_file_image_1600144527440",
+						"updatedAt": 1600144527440,
+						"subType": "image",
+						"description": null,
+						"id": "2c709a27-520c-4782-953e-d725841ec267",
+						"title": "photo-1-15876161801661772236671.jpg",
+						"type": "file"
+					},
+					"data": {
+						"authorInfo": "",
+						"bookInfo": "",
+						"resource": {
+							"origin": {
+								"link": "resource/documents/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/1599896978529",
+								"bucket": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com",
+								"mimeType": "application/pdf",
+								"size": 1033323,
+								"type": "document"
+							},
+							"size": 1033323,
+							"dataType": "resource",
+							"vendorId-subType": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b-pdf",
+							"vendorId-relation": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b-undefined",
+							"createdAt": 1599896979243,
+							"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+							"createdBy": "11e9cd80-e653-11e9-b8c3-4123aa37de79",
+							"vendorId-createdBy": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b-11e9cd80-e653-11e9-b8c3-4123aa37de79",
+							"updatedAt": 1599896979243,
+							"vendorId-subType-createdBy": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b-pdf-11e9cd80-e653-11e9-b8c3-4123aa37de79",
+							"subType": "pdf",
+							"provider": "S3",
+							"link": "resource/documents/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/1599896978529",
+							"id": "6556ea47-eb25-4823-bed7-f8a427fcfa3e",
+							"tags": "tong-hop-cong-thuc-hinh-hoc-12-pdf",
+							"title": "tong-hop-cong-thuc-hinh-hoc-12.pdf",
+							"type": "document",
+							"vendorId-dataType": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b-resource",
+							"vendorId-type": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b-document"
+						},
+						"canEnableRate": false,
+						"mustApproveRate": false
+					},
+					"isFree": true,
+					"price": {
+						"beforeDiscount": 0,
+						"afterDiscount": 0,
+						"currency": "VND"
+					},
+					"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+					"updatedAt": "2020-09-15T04:35:32.154Z",
+					"__v": 0,
+					"id": "5f604494e939fa0008296eca"
+				},
+				{
+					"topics": [
+						{
+							"_id": "5f5309491434ea00087e6bb4",
+							"title": "danh muc sach",
+							"type": "book",
+							"updatedAt": "2020-09-05T03:43:05.087Z",
+							"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+							"tags": "danh-muc-sach",
+							"createdAt": "2020-09-05T03:43:05.087Z",
+							"__v": 0,
+							"id": "5f5309491434ea00087e6bb4"
+						}
+					],
+					"authors": [],
+					"_id": "5f53404084e6d5000841f2f6",
+					"title": "Làm quen với phiên dịch",
+					"description": "đây là cuốn sách tổng hợp tính huống hội thoại thường xuyên xảy ra trong phiên dịch gồm 200 cuộc hội trong sách kèm 1 đĩa ghi âm và hơn 50 trang từ mới. Đây là cuốn sách để các bạn mới vào nghề biên-phiên dịch có thể làm quen",
+					"previewImage": {
+						"origin": {
+							"link": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/4fec6357-4a88-42ff-a66e-30159bfd00dd/tu-van-chuyen-hoa-tu-ti-jpg",
+							"mimeType": "image/jpeg",
+							"type": "image",
+							"size": 159564
+						},
+						"capacity": 319128,
+						"dataType": "resource",
+						"sortKeyCreate": "file_image_1599291350404",
+						"previewImage": null,
+						"sortKeyContainerIdCreate": "_file_image_1599291350404",
+						"createdAt": 1599291350404,
+						"sources": [
+							{
+								"link": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/4fec6357-4a88-42ff-a66e-30159bfd00dd/tu-van-chuyen-hoa-tu-ti-jpg",
+								"mimeType": "image/jpeg",
+								"type": "image",
+								"size": 159564
+							}
+						],
+						"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+						"createdBy": "11e9cd80-e653-11e9-b8c3-4123aa37de79",
+						"personal": null,
+						"state": "available",
+						"sortKeyUpdate": "file_image_1599291351744",
+						"containerIds": [],
+						"previewVideo": null,
+						"sortKeyContainerIdUpdate": "_file_image_1599291351744",
+						"updatedAt": 1599291351744,
+						"subType": "image",
+						"description": null,
+						"id": "4fec6357-4a88-42ff-a66e-30159bfd00dd",
+						"title": "tu-van-chuyen-hoa-tu-ti.jpg",
+						"type": "file"
+					},
+					"isFree": false,
+					"price": {
+						"beforeDiscount": 10000,
+						"afterDiscount": 10000,
+						"currency": "VND"
+					},
+					"data": {
+						"canEnableRate": true,
+						"mustApproveRate": false,
+						"authorInfo": "tác giả có tầm nhìn đại cục",
+						"bookInfo": "tài liệu fake đấy",
+						"resource": {
+							"title": "Ebook n3.pdf",
+							"size": 13768945,
+							"createdBy": "11e9cd80-e653-11e9-b8c3-4123aa37de79",
+							"dataType": "resource",
+							"link": "resource/documents/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/1599291876053",
+							"provider": "S3",
+							"type": "document",
+							"origin": {
+								"link": "resource/documents/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/1599291876053",
+								"size": 13768945,
+								"type": "document",
+								"mimeType": "application/pdf",
+								"bucket": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com"
+							},
+							"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+							"html": "",
+							"vendorId-type": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b-document",
+							"vendorId-subType": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b-undefined",
+							"vendorId-subType-createdBy": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b-undefined-11e9cd80-e653-11e9-b8c3-4123aa37de79",
+							"vendorId-relation": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b-undefined",
+							"vendorId-dataType": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b-resource",
+							"vendorId-createdBy": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b-11e9cd80-e653-11e9-b8c3-4123aa37de79",
+							"createdAt": 1599291877912,
+							"updatedAt": 1599291877912,
+							"tags": "ebook-n3-pdf",
+							"id": "ca5f4632-4651-4a34-87d2-a1c8287ceab8"
+						}
+					},
+					"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+					"updatedAt": "2020-09-05T10:07:46.504Z",
+					"__v": 0,
+					"totalRating_5": 2,
+					"totalRating_4": 6,
+					"totalRating_1": 1,
+					"id": "5f53404084e6d5000841f2f6"
+				},
+				{
+					"topics": [
+						{
+							"_id": "5f5aea9d78fece0008d52fad",
+							"title": "nihongo",
+							"type": "book",
+							"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+							"tags": "nihongo",
+							"updatedAt": "2020-09-11T03:10:21.627Z",
+							"createdAt": "2020-09-11T03:10:21.627Z",
+							"__v": 0,
+							"id": "5f5aea9d78fece0008d52fad"
+						}
+					],
+					"authors": [],
+					"_id": "5f5aeae914d3670008024dad",
+					"title": "N4",
+					"description": "đây là mô tả ngắn cho tài liệu",
+					"previewImage": {
+						"origin": {
+							"link": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/de133f62-0299-49d3-be5c-9bb742634eb9/maxresdefault-1-jpg",
+							"mimeType": "image/jpeg",
+							"type": "image",
+							"size": 118996
+						},
+						"capacity": 237992,
+						"dataType": "resource",
+						"sortKeyCreate": "file_image_1599793847164",
+						"previewImage": null,
+						"sortKeyContainerIdCreate": "_file_image_1599793847164",
+						"createdAt": 1599793847164,
+						"sources": [
+							{
+								"link": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/de133f62-0299-49d3-be5c-9bb742634eb9/maxresdefault-1-jpg",
+								"mimeType": "image/jpeg",
+								"type": "image",
+								"size": 118996
+							}
+						],
+						"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+						"createdBy": "11e9cd80-e653-11e9-b8c3-4123aa37de79",
+						"personal": null,
+						"state": "available",
+						"sortKeyUpdate": "file_image_1599793848206",
+						"containerIds": [],
+						"previewVideo": null,
+						"sortKeyContainerIdUpdate": "_file_image_1599793848206",
+						"updatedAt": 1599793848206,
+						"subType": "image",
+						"description": null,
+						"id": "de133f62-0299-49d3-be5c-9bb742634eb9",
+						"title": "maxresdefault (1).jpg",
+						"type": "file"
+					},
+					"data": {
+						"authorInfo": "đây là thông tin của tác giả",
+						"bookInfo": "đây là thông tin tài liêu",
+						"resource": {
+							"title": "NGỮ PHÁP N4 BẢN TẶNG _ TÀI LIỆU DẠY VÀ HỌC TIẾNG NHẬT.pdf",
+							"size": 12096336,
+							"createdBy": "11e9cd80-e653-11e9-b8c3-4123aa37de79",
+							"dataType": "resource",
+							"link": "resource/documents/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/1599793795020",
+							"provider": "S3",
+							"type": "document",
+							"origin": {
+								"link": "resource/documents/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/1599793795020",
+								"size": 12096336,
+								"type": "document",
+								"mimeType": "application/pdf",
+								"bucket": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com"
+							},
+							"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+							"html": "",
+							"vendorId-type": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b-document",
+							"vendorId-subType": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b-undefined",
+							"vendorId-subType-createdBy": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b-undefined-11e9cd80-e653-11e9-b8c3-4123aa37de79",
+							"vendorId-relation": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b-undefined",
+							"vendorId-dataType": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b-resource",
+							"vendorId-createdBy": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b-11e9cd80-e653-11e9-b8c3-4123aa37de79",
+							"createdAt": 1599793796532,
+							"updatedAt": 1599793796532,
+							"tags": "ngu-phap-n4-ban-tang-tai-lieu-day-va-hoc-tieng-nhat-pdf",
+							"id": "10fb3476-970d-4a1d-ba53-a00f715e7f87"
+						},
+						"canEnableRate": true,
+						"mustApproveRate": true
+					},
+					"isFree": true,
+					"price": {
+						"beforeDiscount": 0,
+						"afterDiscount": 0,
+						"currency": "VND"
+					},
+					"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+					"updatedAt": "2020-09-12T02:53:44.008Z",
+					"__v": 0,
+					"id": "5f5aeae914d3670008024dad"
+				},
+				{
+					"topics": [
+						{
+							"_id": "5f5aea9d78fece0008d52fad",
+							"title": "nihongo",
+							"type": "book",
+							"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+							"tags": "nihongo",
+							"updatedAt": "2020-09-11T03:10:21.627Z",
+							"createdAt": "2020-09-11T03:10:21.627Z",
+							"__v": 0,
+							"id": "5f5aea9d78fece0008d52fad"
+						}
+					],
+					"authors": [],
+					"_id": "5f61d0c41e37a0000888d45f",
+					"title": "hàng thử nghiệm",
+					"description": "không có mô tả đâu",
+					"previewImage": {
+						"origin": {
+							"link": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/815d32a9-a2bb-4aa3-a0e2-c53be835c001/luubi-jpg",
+							"mimeType": "image/jpeg",
+							"type": "image",
+							"size": 166162
+						},
+						"capacity": 332324,
+						"dataType": "resource",
+						"sortKeyCreate": "file_image_1600245940354",
+						"previewImage": null,
+						"sortKeyContainerIdCreate": "_file_image_1600245940354",
+						"createdAt": 1600245940354,
+						"sources": [
+							{
+								"link": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/resource/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/815d32a9-a2bb-4aa3-a0e2-c53be835c001/luubi-jpg",
+								"mimeType": "image/jpeg",
+								"type": "image",
+								"size": 166162
+							}
+						],
+						"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+						"createdBy": "11e9cd80-e653-11e9-b8c3-4123aa37de79",
+						"personal": null,
+						"state": "available",
+						"sortKeyUpdate": "file_image_1600245941451",
+						"containerIds": [],
+						"previewVideo": null,
+						"sortKeyContainerIdUpdate": "_file_image_1600245941451",
+						"updatedAt": 1600245941452,
+						"subType": "image",
+						"description": null,
+						"id": "815d32a9-a2bb-4aa3-a0e2-c53be835c001",
+						"title": "luubi.jpg",
+						"type": "file"
+					},
+					"data": {
+						"authorInfo": "",
+						"bookInfo": "",
+						"resource": {
+							"title": "NGỮ PHÁP N4 BẢN TẶNG _ TÀI LIỆU DẠY VÀ HỌC TIẾNG NHẬT.pdf",
+							"size": 12096336,
+							"createdBy": "11e9cd80-e653-11e9-b8c3-4123aa37de79",
+							"dataType": "resource",
+							"link": "resource/documents/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/1600245901681",
+							"provider": "S3",
+							"type": "document",
+							"origin": {
+								"link": "resource/documents/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/1600245901681",
+								"size": 12096336,
+								"type": "document",
+								"mimeType": "application/pdf",
+								"bucket": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com"
+							},
+							"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+							"html": "",
+							"vendorId-type": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b-document",
+							"vendorId-subType": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b-undefined",
+							"vendorId-subType-createdBy": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b-undefined-11e9cd80-e653-11e9-b8c3-4123aa37de79",
+							"vendorId-relation": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b-undefined",
+							"vendorId-dataType": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b-resource",
+							"vendorId-createdBy": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b-11e9cd80-e653-11e9-b8c3-4123aa37de79",
+							"createdAt": 1600245904130,
+							"updatedAt": 1600245904130,
+							"tags": "ngu-phap-n4-ban-tang-tai-lieu-day-va-hoc-tieng-nhat-pdf",
+							"id": "be6bd484-79fa-40a0-a7bc-9f3b1ebf86cd"
+						},
+						"canEnableRate": true,
+						"mustApproveRate": false
+					},
+					"isFree": false,
+					"price": {
+						"beforeDiscount": 100000,
+						"afterDiscount": 100000,
+						"currency": "VND"
+					},
+					"vendorId": "23b0bfb0-c00b-11e9-a060-17d3861b7a5b",
+					"updatedAt": "2020-09-16T08:48:03.687Z",
+					"__v": 0,
+					"totalRating_4": 1,
+					"id": "5f61d0c41e37a0000888d45f"
+				}
+			],
+			"to": "/ebook"
+		},
+		"id": "ebook:c85f4000-f8c6-11ea-803a-255458810ef3"
+	},
+	{
+		"element": "SectionSingleImageSlider",
+		"props": {
+			"heading-text": "Tiêu đề",
+			"items": [
+				"https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/vendors/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/page-builder/img/1600334441954jpg"
+			],
+			"hrefs": ["https://www.youtube.com/watch?v=BcF9H8aPSNs", null, null]
+		},
+		"id": "single-image-slider:ea3534f0-f8c6-11ea-803a-255458810ef3"
+	},
+	{
+		"element": "SectionBannerText",
+		"props": {
+			"button-text": "Click me",
+			"heading-text": "Tiêu đề",
+			"background-image": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/vendors/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/page-builder/img/1600334495562jpg",
+			"to": "https://www.youtube.com/watch?v=3v79CLLhoyE",
+			"description-text": "Bấm vào nút bên dưới để nhận bí kíp tối thượng",
+			"text-align": "center"
+		},
+		"id": "banner-text:f87bfdf0-f8c6-11ea-803a-255458810ef3"
+	},
+	{
+		"element": "SectionForm",
+		"props": {
+			"button-text": "Gửi",
+			"heading-text": "Mẫu đơn",
+			"backgroundImage": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/vendors/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/page-builder/img/1600335228078jpeg"
+		},
+		"id": "lead-form:8bb53370-f8c7-11ea-803a-255458810ef3"
+	},
+	{
+		"element": "SectionImageDescription",
+		"props": {
+			"heading-text": "Hỏa thiêu liên doanh",
+			"paragraph": "Thốn tận rốn",
+			"button-label": "Tên nút",
+			"image-url": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/vendors/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/page-builder/img/1600334697104jpeg",
+			"show-button": null
+		},
+		"id": "image-description:9ebf02c0-f8c7-11ea-803a-255458810ef3"
+	},
+	{
+		"element": "SectionTestimonial",
+		"props": {
+			"items": [
+				{
+					"description": "\"Phàm những chuyện đại sự trong thiên hạ nên vè nhà hỏi vợ, vợ bảo sao cứ làm ngược lại. Ắt sẽ thành công\"",
+					"avatar": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/vendors/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/page-builder/img/1600334771014jpg",
+					"title": "Tào Tháo",
+					"subtitle": "Trích dẫn"
+				},
+				{
+					"description": "\"Hành sự tại nhân, thành sự tại thiên. Ý trời \"",
+					"avatar": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/vendors/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/page-builder/img/1600334879118png",
+					"title": "Gia Cát Lượng",
+					"subtitle": "Trích dẫn"
+				},
+				{
+					"description": "\" Thà chết chứ không làm chuyện bất nhân, bất nghĩa\"",
+					"avatar": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/vendors/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/page-builder/img/1600335046593jpg",
+					"title": "Lưu Bị",
+					"subtitle": "Trích dẫn"
+				}
+			],
+			"backgroundImage": "https://online-learning-izteach-3-test-aws-source-bucket.s3-ap-southeast-1.amazonaws.com/vendors/23b0bfb0-c00b-11e9-a060-17d3861b7a5b/page-builder/img/1600334862133jpg"
+		},
+		"id": "testimonial-slider:ca12ee00-f8c7-11ea-803a-255458810ef3"
+	}
+]
